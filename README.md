@@ -1,2 +1,3 @@
-# tetris-2
-A new version of tetris
+# Minigames
+A collection of mini games which can be runned from the inspect console on browser
+
